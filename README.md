@@ -1,1 +1,1 @@
-# War
+Simulation of War card game
